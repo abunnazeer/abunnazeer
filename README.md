@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abunnazeer
-- 👀 I’m junior front end developer
+- 👀 I’m a junior front end developer
 - 🌱 I’m currently learning Reactjs, Nodejs
 - 💞️ I’m looking to collaborate to work on any project
 - 📫 want to reach me? check @ abunnazeer@gmail.com
