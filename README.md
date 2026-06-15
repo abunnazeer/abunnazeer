@@ -1,50 +1,46 @@
 # Abdullahi Ahmad
 
-Software Engineer building backend systems, APIs, and fintech infrastructure for the Nigerian market.
+Software developer. I build full-stack **web and mobile applications**, with **AI/LLM integration** built in.
 
-I run [Beenai Technologies](https://beenai.com.ng), where I design and ship production software — payment platforms, identity verification systems, utility APIs, and business tools.
+I run [Beenai Technologies](https://beenai.com.ng), where I design and ship production software for the Nigerian market — payment platforms, identity verification, utility APIs, and business tools.
 
 ## What I Work With
 
-**Backend:** Node.js · TypeScript · C# / ASP.NET Core · Python / FastAPI
-
-**Databases:** PostgreSQL · MongoDB · SQL Server · Redis
-
-**Infrastructure:** Docker · Nginx · Linux · GitHub Actions · CI/CD
-
-**Frontend (when needed):** React · Next.js · Vue.js
-
+**Languages:** JavaScript · TypeScript
+**Backend:** Node.js · Express · REST APIs · PostgreSQL
+**Web:** React · Next.js
 **Mobile:** React Native
+**AI/LLM Integration:** building AI-powered features into web and mobile applications, with a provider-agnostic approach
 
 ## What I've Built
 
-**VSLink360** — API platform for digital services (airtime, data, electricity, TV subscriptions). Developers consume APIs; end users access services via web and mobile apps.
+**VSLink360** — API platform for digital services (airtime, data, electricity, TV subscriptions). Developers consume the APIs; end users access services via web and mobile apps.
 
 **VSPay** — Payment and wallet platform with multi-provider integration (Paystack, Flutterwave) and automatic failover between processors.
 
-**ConvoFlow** — WhatsApp automation and customer communication system. Multi-tenant architecture supporting multiple business clients.
+**ConvoFlow** — WhatsApp automation and customer communication system, with multi-tenant support for multiple business clients.
 
 **StatusCheck** — [Live](https://statuscheck.com.ng) · Web platform for verifying NIN and BVN identity details online.
 
 **VSCloud** — [Live](https://account.vscloud.com.ng) · Hosting management platform with invoicing, client portals, and automated provisioning.
 
-**SuperPOS** — Retail point-of-sale system with inventory tracking, sales reporting, and receipt generation.
+**ReportPro** — [Live](https://reportpro.com.ng) · School result management system for Nigerian secondary schools: grading, report cards, and performance tracking. AI is integrated through a single provider-agnostic service (Claude or OpenAI, switchable by config) in focused, human-in-the-loop ways — drafting report-card remarks from a student's real scores and attendance, and suggesting marks with rationale for theory exam answers, with the teacher always reviewing and finalizing.
 
-**ReportPro** — School result management system for Nigerian secondary schools. Handles grading, report card generation, and academic performance tracking.
+**SuperPOS** — Retail point-of-sale system with inventory tracking, sales reporting, and receipt generation.
 
 **Solaris Finance** — Financial portfolio management platform built for an enterprise client.
 
 **QuickFund** — Mobile micro-lending platform with loan management and repayment workflows.
 
-**The Repair Scanner** — [Live](https://www.the-repair-scanner.com) · Full-stack repair diagnostics platform built for a client. Node.js/TypeScript API, React web app, React Native mobile app, and FastAPI-powered AI service.
+**The Repair Scanner** — [Live](https://www.the-repair-scanner.com) · Full-stack repair diagnostics platform built for a client: Node.js/TypeScript API, React web app, and React Native mobile app.
 
 > Most of my production code is in private repositories. Public repos here are standalone services and reference implementations.
 
 ## Current Focus
 
-- System design and API architecture patterns
 - API security, authentication, and secure payment workflows
-- Building clean, well-documented backend services
+- Clean, well-documented backend services
+- AI/LLM integration patterns
 
 ## Find Me
 
