@@ -2,7 +2,7 @@
 
 Software developer. I build full-stack **web and mobile applications**, with **AI/LLM integration** built in.
 
-I run [Beenai Technologies](https://beenai.com.ng), where I design and ship production software for the Nigerian market — payment platforms, identity verification, utility APIs, and business tools.
+I run [Beenai Technologies](https://beenai.com.ng), where I design and ship production software for the Nigerian market — payment platforms, identity verification, utility APIs, and business tools. Most of what I know is self-taught, and proven by what I've put into people's hands.
 
 ## What I Work With
 
@@ -10,29 +10,26 @@ I run [Beenai Technologies](https://beenai.com.ng), where I design and ship prod
 **Backend:** Node.js · Express · REST APIs · PostgreSQL
 **Web:** React · Next.js
 **Mobile:** React Native
-**AI/LLM Integration:** building AI-powered features into web and mobile applications, with a provider-agnostic approach
+**AI/LLM Integration:** building AI-powered features into applications, with a provider-agnostic approach (Claude, OpenAI, or others)
 
 ## What I've Built
 
-**VSLink360** — API platform for digital services (airtime, data, electricity, TV subscriptions). Developers consume the APIs; end users access services via web and mobile apps.
-
-**VSPay** — Payment and wallet platform with multi-provider integration (Paystack, Flutterwave) and automatic failover between processors.
-
-**ConvoFlow** — WhatsApp automation and customer communication system, with multi-tenant support for multiple business clients.
-
-**StatusCheck** — [Live](https://statuscheck.com.ng) · Web platform for verifying NIN and BVN identity details online.
-
-**VSCloud** — [Live](https://account.vscloud.com.ng) · Hosting management platform with invoicing, client portals, and automated provisioning.
+**StatusCheck** — [Live](https://statuscheck.com.ng) · Web platform for verifying NIN and BVN identity details online. Serving real users.
 
 **ReportPro** — [Live](https://reportpro.com.ng) · School result management system for Nigerian secondary schools: grading, report cards, and performance tracking. AI is integrated through a single provider-agnostic service (Claude or OpenAI, switchable by config) in focused, human-in-the-loop ways — drafting report-card remarks from a student's real scores and attendance, and suggesting marks with rationale for theory exam answers, with the teacher always reviewing and finalizing.
 
-**SuperPOS** — Retail point-of-sale system with inventory tracking, sales reporting, and receipt generation.
+**VSCloud** — [Live](https://account.vscloud.com.ng) · Hosting and web-presence management platform for NGOs and business clients: invoicing, client portals, corporate email, and automated provisioning. Includes an AI website builder that generates business websites for clients.
 
-**Solaris Finance** — Financial portfolio management platform built for an enterprise client.
+
+**VSLink360** — API platform for digital services (airtime, data, electricity, TV subscriptions). Developers consume the APIs; end users access services via web and mobile apps.
+
+**ConvoFlow** — WhatsApp automation and customer communication system, with multi-tenant support for multiple business clients.
+
+**SuperPOS** — Retail point-of-sale system with inventory tracking, sales reporting, and receipt generation.
 
 **QuickFund** — Mobile micro-lending platform with loan management and repayment workflows.
 
-**The Repair Scanner** — [Live](https://www.the-repair-scanner.com) · Full-stack repair diagnostics platform built for a client: Node.js/TypeScript API, React web app, and React Native mobile app.
+**The Repair Scanner** — [Live](https://www.the-repair-scanner.com) · Repair diagnostics platform built for a client: Node.js/TypeScript API, React web app, and React Native mobile app.
 
 > Most of my production code is in private repositories. Public repos here are standalone services and reference implementations.
 
